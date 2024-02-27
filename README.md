@@ -1,16 +1,10 @@
 # Hello world! I'm Rendy Christian! 👋
 
-### Final year undegraduate Electrical Engineering student at Universitas Indonesia. 
-Detail-oriented person with analytical and driven mindset. Enthusiastic team player who works at fast pace to meet tight deadlines. Experienced in software development, artifcial intelligence, telecommunication, and electrical engineering.🌿
+### Final year undegraduate Electrical Engineering student at Universitas Indonesia 🌿
+Detail-oriented person with analytical and driven mindset. Enthusiastic team player who works at fast pace to meet tight deadlines. Experienced in software development, artifcial intelligence, telecommunication, and electrical engineering.
 
 ## Skills
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
-- ![React](https://img.shields.io/badge/React-Intermediate-blue)
-- ![Express JS](https://img.shields.io/badge/Express%20JS-Intermediate-green)
-- ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-- ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange)
-- ![PHP](https://img.shields.io/badge/PHP-Beginner-red)
-- ![C++](https://img.shields.io/badge/C++-Proficient-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow) ![React](https://img.shields.io/badge/React-Intermediate-blue) ![Express JS](https://img.shields.io/badge/Express%20JS-Intermediate-green) ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange) ![PHP](https://img.shields.io/badge/PHP-Beginner-red) ![C++](https://img.shields.io/badge/C++-Proficient-purple)
 
 ## Projects
 - [Fluzz Team](https://github.com/rendychristiann/toilet-monitoring-system): Electrical Engineering capstone project to monitor daily toilet usage using PHP and JavaScript
