@@ -4,34 +4,28 @@ Detail-oriented person with analytical and driven mindset. Enthusiastic team pla
 
 ## Skills
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-- ![React](https://img.shields.io/badge/React-Advanced-blue)
-- ![Python](https://img.shields.io/badge/Python-Proficient-green)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)
+- ![React](https://img.shields.io/badge/React-Intermediate-blue)
+- ![Express JS](https://img.shields.io/badge/Express%20JS-Intermediate-green)
+- ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+- ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange)
+- ![PHP](https://img.shields.io/badge/PHP-Beginner-red)
+- ![C++](https://img.shields.io/badge/C++-Proficient-purple)
 
 ## Projects
 
-- [Portfolio Website](https://github.com/johndoe/portfolio): My personal website showcasing my projects.
-- [Task Manager App](https://github.com/johndoe/task-manager): A simple task manager built with React.
+- [Fluzz Team](https://github.com/rendychristiann/toilet-monitoring-system): Electrical Engineering capstone project to monitor daily toilet usage using PHP and JavaScript
+- [AirSense](https://github.com/rendychristiann/airsense): Personal final thesis frontend project to monitor air quality index using React Vite and Tailwind CSS
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ## Blog
 
-- [Building Responsive Web Apps with React](https://johndoe.dev/blog/responsive-react)
+- [Portfolio](https://johndoe.dev/blog/responsive-react)](https://rendychristiann.github.io/portfolio-rendy/)
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/johndoe/) | [Twitter](https://twitter.com/johndoe/) | [Personal Website](https://www.johndoe.dev/)
+[LinkedIn]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/rendy-christian-siahaan/)) | [Instagram](https://www.instagram.com/rendychristian_/)
 
-## Resume
-
-[View my Resume](https://www.johndoe.dev/resume.pdf)
-
-## Open Source Contributions
-
-- [React](https://github.com/facebook/react): Fixed a bug related to component lifecycle.
 
 ## Fun Facts
 
