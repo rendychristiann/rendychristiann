@@ -17,16 +17,10 @@ Detail-oriented person with analytical and driven mindset. Enthusiastic team pla
 - [AirSense](https://github.com/rendychristiann/airsense): Personal final thesis frontend project to monitor air quality index using React Vite and Tailwind CSS
 
 ## Portfolio
-
 - [Portfolio](https://rendychristiann.github.io/portfolio-rendy/)
 
 ## Connect with Me
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)(https://www.linkedin.com/in/rendy-christian-siahaan/)
+- ![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rendychristian_/)
+- ![Personal Website](https://img.shields.io/badge/Website-Visit-blue?logo=web)(https://www.yourwebsite.com/)
 
-[LinkedIn]() | [Instagram]()
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/rendy-christian-siahaan/)
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rendychristian_/)
-- [![Personal Website](https://img.shields.io/badge/Website-Visit-blue?logo=web)](https://www.yourwebsite.com/)
-
-## GitHub Trophies
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=johndoe)
