@@ -16,9 +16,6 @@ Detail-oriented person with analytical and driven mindset. Enthusiastic team pla
 - [Fluzz Team](https://github.com/rendychristiann/toilet-monitoring-system): Electrical Engineering capstone project to monitor daily toilet usage using PHP and JavaScript
 - [AirSense](https://github.com/rendychristiann/airsense): Personal final thesis frontend project to monitor air quality index using React Vite and Tailwind CSS
 
-## Portfolio
-- [Portfolio](https://rendychristiann.github.io/portfolio-rendy/)
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/rendy-christian-siahaan/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rendychristian_/) [![Personal Website](https://img.shields.io/badge/Website-Visit-blue?logo=web)](https://rendychristiann.github.io/portfolio-rendy/)
 
