@@ -1,6 +1,6 @@
-# Hi there, I'm John Doe! 👋
+# Hi there, I'm Rendy Christian! 👋
 
-I'm a passionate software developer with a love for clean code and innovative solutions. Currently exploring the realms of web development and artificial intelligence.
+Detail-oriented person with analytical and driven mindset. Enthusiastic team player who works at fast pace to meet tight deadlines. Experienced in software development, artifcial intelligence, telecommunication, and electrical engineering.
 
 ## Skills
 
