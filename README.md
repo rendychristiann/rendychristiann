@@ -1,4 +1,4 @@
-# Hello world! I'm Rendy Christian! 👋
+# Hello World! I'm Rendy Christian! 👋
 
 ### Final year undegraduate Electrical Engineering student at Universitas Indonesia 🌿
 Detail-oriented person with analytical and driven mindset. Enthusiastic team player who works at fast pace to meet tight deadlines. Experienced in software development, artificial intelligence, telecommunication, and electrical engineering.
