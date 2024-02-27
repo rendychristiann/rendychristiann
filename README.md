@@ -20,7 +20,5 @@ Detail-oriented person with analytical and driven mindset. Enthusiastic team pla
 - [Portfolio](https://rendychristiann.github.io/portfolio-rendy/)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/rendy-christian-siahaan/)
-- ![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rendychristian_/)
-- ![Personal Website](https://img.shields.io/badge/Website-Visit-blue?logo=web)(https://www.yourwebsite.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/rendy-christian-siahaan/) [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rendychristian_/) [![Personal Website](https://img.shields.io/badge/Website-Visit-blue?logo=web)](https://rendychristiann.github.io/portfolio-rendy/)
 
