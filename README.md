@@ -6,7 +6,7 @@ Detail-oriented person with analytical and driven mindset. Enthusiastic team pla
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow) ![React](https://img.shields.io/badge/React-Intermediate-blue) ![Express JS](https://img.shields.io/badge/Express%20JS-Intermediate-green) ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange) ![PHP](https://img.shields.io/badge/PHP-Beginner-red) ![C++](https://img.shields.io/badge/C++-Proficient-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendychristiann&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendychristiann&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Latest Projects
 - [Fluzz Team](https://github.com/rendychristiann/toilet-monitoring-system): Electrical Engineering capstone project to monitor daily toilet usage using PHP and JavaScript
